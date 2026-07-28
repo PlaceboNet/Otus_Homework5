@@ -1,4 +1,6 @@
-﻿namespace Otus_Homework5
+﻿using Otus_Homework5.Models.Animals;
+
+namespace Otus_Homework5
 {
     class Program
     {

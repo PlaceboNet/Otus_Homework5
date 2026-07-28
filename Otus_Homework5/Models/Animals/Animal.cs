@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Otus_Homework5.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Otus_Homework5
+namespace Otus_Homework5.Models.Animals
 {
     public class Animal : IMyCloneable<Animal>, ICloneable
     {
